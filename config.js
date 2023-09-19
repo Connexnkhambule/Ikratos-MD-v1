@@ -48,15 +48,15 @@ global.sdc = '-' //Fill it out using the Discord link, if there is one, just lea
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '265995013516' //Nomor Danamu
+global.ppulsa = '265885740192' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '265995013516' //Nomor Bot
+global.nomorown = '265995013516' //Nomor Owner
+global.namebot = 'GLITCH BOT-MD-v1' //Nama Bot
+global.nameown = 'ISHMAEL NKHAMBULE' // Nama Owner
 
 
 /*============== CHATGPT ==============*/
@@ -65,8 +65,8 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['19293514545', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', false] //Replace your name and number here
+  ['265995013516', 'GLITCH VINTAGE🎐', true] //don't change this name and number
+  ['265988823622', 'GLITCH BOT🎐', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
@@ -105,10 +105,10 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
+global.wm = '「 GLITCH VINTAGE-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
 global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
-global.footerTXT = `ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +92 347 0027813`
+global.wm3 = 'GLITCH-ᴍᴅ-ᴠ𝟷'
+global.footerTXT = `GLITCH-ᴍᴅ-ᴠ1 • ᴍᴜʟᴛɪ ᴅᴇᴠɪᴄᴇ\nowner: +265 995013516`
 global.fig = `Follow me on instagram:\n\t\tinstagram.com/itx_ahmad.ali`
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
@@ -140,7 +140,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+265995013516'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -181,9 +181,9 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = 'x_ikratos_x'
-global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
+global.stickauth = `「 GLITCH-ᴍᴅ-ᴠ𝟷 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ VINTAGE'
 
 global.multiplier = 38 // The higher, The harder levelup
 
